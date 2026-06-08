@@ -133,15 +133,8 @@ Com base na quantidade de alertas, o sistema classifica a missão como:
 ```text
 mission-control-ai/
 │
-├── mission_control_ai_gs.ipynb
 ├── README.md
-│
-└── assets/
-    ├── cenario_normal.png
-    ├── cenario_atencao.png
-    ├── cenario_critico.png
-    ├── teste_ia.png
-    └── grafico_cenarios.png
+└── mission_control_ai_gs.ipynb
 ```
 
 ## 🎥 Vídeo de Demonstração
