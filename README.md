@@ -87,23 +87,24 @@ Com base na quantidade de alertas, o sistema classifica a missão como:
 
 ### Cenário Normal
 
-![Cenário Normal](assets/cenario_normal.png)
+ <img width="706" height="413" alt="image" src="https://github.com/user-attachments/assets/a001fb27-dcc0-40a2-81ee-a508206a54bb" />
 
 ### Cenário de Atenção
 
-![Cenário de Atenção](assets/cenario_atencao.png)
+<img width="701" height="415" alt="image" src="https://github.com/user-attachments/assets/3df50aeb-5365-4225-b118-c0e16655c9f2" />
 
 ### Cenário Crítico
 
-![Cenário Crítico](assets/cenario_critico.png)
+<img width="705" height="558" alt="image" src="https://github.com/user-attachments/assets/56874fd2-28ab-4070-b938-e230cb21ef1d" />
+
 
 ### Teste com Inteligência Artificial
 
-![Teste com IA](assets/teste_ia.png)
+<img width="588" height="642" alt="image" src="https://github.com/user-attachments/assets/93be8a2c-6c4a-4f86-b750-044934a62e6c" />
 
 ### Gráfico Comparativo
 
-![Gráfico Comparativo](assets/grafico_cenarios.png)
+<img width="864" height="469" alt="image" src="https://github.com/user-attachments/assets/44e04c61-fcda-40ec-a47d-bfd6e86957d8" />
 
 ## ▶️ Como Executar
 
